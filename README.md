@@ -1,8 +1,8 @@
 ![](https://komarev.com/ghpvc/?username=KasunAbeyweera)
 
-# 👋 Hi, I'm Kasun !
+# 👋 Hi, I'm Kasun Abeyweera !
 
-# 👋 About Me
+# About Me
 
 I’m someone who enjoys building practical, meaningful solutions with AI and data. Over the past few years, I’ve worked across a range of systems, deploying models, engineering real-time applications, and architecting scalable cloud platforms that quietly power things behind the scenes.
 
@@ -18,13 +18,11 @@ Always open to good ideas, meaningful conversations, and challenging problems wo
 - 📧 sathsaraabeyweera@gmail.com  
 - 📧 sathsara.20211409@iit.ac.lk  
 
----
 
 ## 🌐 Connect with Me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kasunabeyweera) 
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/KasunAbeyweera)
 
----
 
 ## 🛠️ Tech Stack
 
@@ -67,7 +65,6 @@ Always open to good ideas, meaningful conversations, and challenging problems wo
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
----
 
 ## 📊 GitHub Stats:
 <p align="center">
@@ -81,19 +78,12 @@ Always open to good ideas, meaningful conversations, and challenging problems wo
   </a>
 </p>
 
----
 
 ## 🔥 Contributions
 ![Kasun's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=KasunAbeyweera&theme=tokyo-night&hide_border=false)
 
-...
 
 
----
-
-<div align="center">
-  <img src="https://visitcount.itsvg.in/api?id=KasunAbeyweera&icon=5&color=6" alt="Visitor Count"/>
-</div>
 
 <!--GitHub Profile README created with ❤️ by Kasun Abeyweera -->
 
